@@ -1,5 +1,4 @@
 <h1>Hi I'm yasir Aziz</h1>
-<img src=''
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>INEEDIT.</b>
