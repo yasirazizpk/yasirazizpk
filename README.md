@@ -1,6 +1,6 @@
 <h1>Hi I'm yasir Aziz</h1>
 
-I am looking for Internship in React.js (frontend development).
+<b>I am looking for Internship in React.js (frontend development).</b>
 
 I have done BSCS (hons) from Kohat University Of Science and Technology.
 
