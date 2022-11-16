@@ -37,6 +37,13 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 - - - - About team:heavy_check_mark:
 - - - - Book an order:heavy_check_mark:
 
+- 📫 <b>coffeeshop-React:</b> <a href='https://coffeeshop-react.vercel.app/'>visit</a>
+- - This is React.js application for online coffee services.
+- - - <b>Features includes:</b> 
+- - - - variety of coffee:heavy_check_mark:
+- - - - About team:heavy_check_mark:
+- - - - Book an order:heavy_check_mark:
+
 
 <br /><br /><br />
 
