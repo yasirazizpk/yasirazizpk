@@ -29,7 +29,7 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 - - - - listing of doctors :heavy_check_mark:
 - - - - listing of doctors :heavy_check_mark:
 
-<br />
+
 - 📫 <b>coffeeshop:</b> <a href='https://github.com/yasirazizpk/coffeeshop'>visit</a>
 - - This is an application for online coffee services.
 - - - <b>Features includes:</b> 
