@@ -18,10 +18,10 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 
 <b> My Projects:</b>
 <br />
-- 📫 <b>Ineedit:</b> <a href='https://www.linkedin.com/in/yasir-aziz-b5339724a'>visit</a>
+- 📫 <b>Ineedit:</b> <a href='https://ineedit-react.vercel.app/'>visit</a>
 - - This is an application for online health services.
 - - - <b>Features includes:</b> 
- Doctors servcies listing :heavy_check_mark:
+- - - - Doctors servcies listing :heavy_check_mark:
 - - - - Search filters :heavy_check_mark:
 - - - - Listing sorting :heavy_check_mark:
 - - - - Service details page :heavy_check_mark:
