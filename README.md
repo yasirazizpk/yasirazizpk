@@ -28,6 +28,7 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 - - - - Book an appointment :heavy_check_mark:
 - - - - listing of doctors :heavy_check_mark:
 - - - - listing of doctors :heavy_check_mark:
+- <hr />
 
 
 - 📫 <b>coffeeshop:</b> <a href='https://github.com/yasirazizpk/coffeeshop'>visit</a>
