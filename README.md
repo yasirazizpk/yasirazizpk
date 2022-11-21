@@ -31,9 +31,9 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 .Home page: ![image](https://user-images.githubusercontent.com/112818000/202647755-e8fcf047-24e6-40ab-ae2d-88314193e3cb.png)
 other page:![image](https://user-images.githubusercontent.com/112818000/202670252-82f1a9bc-2f50-46c8-be95-bbae9290f732.png)
 
-
-<hr />
-
+<br /><br />
+<hr /><hr />
+<br /><br />
 
 - 📫 <b>coffeeshop:</b> <a href='https://github.com/yasirazizpk/coffeeshop'>visit</a>
 - - This is an application for online coffee services.
@@ -56,7 +56,9 @@ Home Page:![image](https://user-images.githubusercontent.com/112818000/202650640
 ![image](https://user-images.githubusercontent.com/112818000/202675143-5eecd810-2361-4fef-b48c-a8767f1c26bf.png)
 
 
-- <hr /><br /><br />
+<br /><br />
+<hr /><hr />
+<br /><br />
 
 - 📫 <b>tictactoe game:</b> <a href='https://tictactoe-game-psi.vercel.app/'>visit</a>
   - - This is tictactoe game. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
@@ -67,7 +69,10 @@ Home Page:![image](https://user-images.githubusercontent.com/112818000/202650640
 - - - -When all 9 squares are full, the game is over.<br />
 ![image](https://user-images.githubusercontent.com/112818000/202652685-4bfb0d50-e481-40c8-8ddb-3ca2ff7436ba.png)
 
-<hr /><br /><br />
+<br /><br />
+<hr /><hr />
+<br /><br />
+
 - 📫 <b>FakestoreApi:</b> <a href='https://fakestoreapi-pi.vercel.app/'>visit</a>
 - - This is React.js application for online buying products.
 - - - <b>Features includes:</b> 
@@ -80,8 +85,8 @@ Detail:![image](https://user-images.githubusercontent.com/112818000/202677176-47
 
 
 
-- <hr />
-
+<br /><br />
+<hr /><hr />
 <br /><br />
 
 <b>Reach out to me: </b>
