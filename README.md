@@ -44,7 +44,9 @@ other page:![image](https://user-images.githubusercontent.com/112818000/20267025
 Home page:![image](https://user-images.githubusercontent.com/112818000/202649178-a33a321f-baf1-4ad5-b821-1bb16373811b.png)
 other page:![image](https://user-images.githubusercontent.com/112818000/202675807-da3e1cc6-3604-49f5-9867-3d78dab0402b.png)
 
-- <hr /><br /><br />
+<br /><br />
+<hr /><hr />
+<br /><br />
 
 - 📫 <b>coffeeshop-React:</b> <a href='https://coffeeshop-react.vercel.app/'>visit</a>
 - - This is React.js application for online coffee services.
