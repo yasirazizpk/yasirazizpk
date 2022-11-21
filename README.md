@@ -30,6 +30,10 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 - - - - listing of doctors :heavy_check_mark:
 .Home page: ![image](https://user-images.githubusercontent.com/112818000/202647755-e8fcf047-24e6-40ab-ae2d-88314193e3cb.png)
 other page:![image](https://user-images.githubusercontent.com/112818000/202670252-82f1a9bc-2f50-46c8-be95-bbae9290f732.png)
+<img src="https://user-images.githubusercontent.com/112818000/202670252-82f1a9bc-2f50-46c8-be95-bbae9290f732.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/112818000/202670252-82f1a9bc-2f50-46c8-be95-bbae9290f732.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/112818000/202670252-82f1a9bc-2f50-46c8-be95-bbae9290f732.png" alt="drawing" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/112818000/202670252-82f1a9bc-2f50-46c8-be95-bbae9290f732.png" alt="drawing" style="width:200px;"/>
 
 <br /><br />
 <hr /><hr />
