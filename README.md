@@ -3,7 +3,7 @@
 <br /><br /><br />
 
 
-I am looking for <b>Internship in React.js</b> (frontend development).</b>
+I am professional <b>MERN stack developer</b> .</b>
 
 <br />
 
@@ -20,7 +20,7 @@ I am looking for <b>Internship in React.js</b> (frontend development).</b>
 <br />
 - 📫 <b>Ineedit:</b> <a href='https://ineedit-react.vercel.app/'>visit</a>
 - This is an online web application developed in React.js with backend in Node express.js and mongoDB. It has the following features.
-i).   Home page with Search form :heavy_check_mark:<br />
+ i).   Home page with Search form :heavy_check_mark:<br />
 ii).  Listing page (doctors listing) :heavy_check_mark:<br />
 iii). Listing page search filters :heavy_check_mark:<br />
 iv).  Service details page (Single doctor services page) :heavy_check_mark:<br />
