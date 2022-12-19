@@ -3,7 +3,7 @@
 <br /><br /><br />
 
 
-I am professional <b>MERN stack developer</b> .</b>
+I am looking for internship in <b>React JS</b> .</b>
 
 <br />
 
