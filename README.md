@@ -1,4 +1,4 @@
-<h1>Hi I'm yasir Aziz</h1>
+<h1>Hi I'm Yasir Aziz</h1>
 
 <br /><br /><br />
 
@@ -18,7 +18,7 @@ I am looking for internship in <b>React JS</b> .</b>
 
 <b> My Projects:</b>
 <br />
-- 📫 <b>Ineedit:</b> <a href='https://ineedit-react.vercel.app/'>visit</a>
+- 📫 <b>Ineedit:</b> <a href='https://yasir-ineedit-react.vercel.app/'>visit</a>
 - This is an online web application developed in React.js with backend in Node express.js and mongoDB. It has the following features.
  i).   Home page with Search form :heavy_check_mark:<br />
 ii).  Listing page (doctors listing) :heavy_check_mark:<br />
@@ -43,7 +43,7 @@ Home Page: ![image](https://user-images.githubusercontent.com/112818000/20264917
 <hr /><hr />
 <br /><br />
 
-- 📫 <b>coffeeshop-React:</b> <a href='https://coffeeshop-react.vercel.app/'>visit</a>
+- 📫 <b>coffeeshop-React:</b> <a href='https://yasir-aziz-coffeeshop-react.vercel.app/'>visit</a>
 - This is a website built in React.js with static coffee's listing. It has Home Page, Menu page, About and Contact Page.
 
 Home Page: ![image](https://user-images.githubusercontent.com/112818000/202650640-cc68a6aa-3bf8-4937-b221-eed96cca1fb3.png)
@@ -51,7 +51,7 @@ Home Page: ![image](https://user-images.githubusercontent.com/112818000/20265064
 <br /><br />
 <hr /><hr />
 <br /><br />
-- 📫 <b>Online Store:</b> <a href='https://fakestoreapi-pi.vercel.app/'>visit</a>
+- 📫 <b>Online Store:</b> <a href='https://yasir-aziz-online-store.vercel.app/'>visit</a><br>
 - This is an online web app developed in React.JS integrated with backend REST API's (free public products API's by fakeStoreApi).
 - This app has the followign features.
 
@@ -67,7 +67,7 @@ Listing Page:![image](https://user-images.githubusercontent.com/112818000/202677
 <hr /><hr />
 <br /><br />
 
-- 📫 <b>tictactoe game:</b> <a href='https://tictactoe-game-psi.vercel.app/'>visit</a>
+- 📫 <b>tictactoe game:</b> <a href='https://yasir-aziz-tictactoe-game.vercel.app/'>visit</a>
 - This is tictactoe game. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is considered winner.
 - When all 9 squares are full, the game is over.<br/>
 ![image](https://user-images.githubusercontent.com/112818000/202652685-4bfb0d50-e481-40c8-8ddb-3ca2ff7436ba.png)
