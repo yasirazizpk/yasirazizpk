@@ -7,7 +7,7 @@ As a dedicated Full Stack Developer, I specialize in creating dynamic, user-frie
 
 <h3>Front-End Development: </h3> HTML, CSS, Bootstrap, Tailwind CSS, MUI, React, Next.js
 <h3> Back-End Development:</h3> Node.js, Express.js, PHP, Laravel
-<h3>Content Management Systems:</h3> WordPress
+<h3>Content Management Systems:</h3> WordPress <br />
 I thrive on solving complex problems and crafting efficient, scalable solutions. My focus is on delivering high-quality, modern web experiences with a keen eye for performance and usability.
 
 Feel free to explore my repositories to see the projects I've worked on and the skills I've honed.</b> .</b>
