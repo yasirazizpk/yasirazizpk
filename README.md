@@ -3,96 +3,15 @@
 <br />
 
 
-As a dedicated Full Stack Developer, I specialize in creating dynamic, user-friendly web applications and websites. My skill set includes:
+<h1 align="center">Hi 👋, I'm Yasir Aziz</h1>
+<h3 align="center">As a dedicated Full Stack Developer, I specialize in creating dynamic, user-friendly web applications and websites. My skill set includes: Front-End Development: HTML, CSS, Bootstrap, Tailwind CSS, MUI, React, Next.js Back-End Development: Node.js, Express.js, PHP, Laravel Content Management Systems: WordPress I thrive on solving complex problems and crafting efficient, scalable solutions. My focus is on delivering high-quality, modern web experiences with a keen eye for performance and usability. Feel free to explore my repositories to see the projects I've worked on and the skills I've honed.</h3>
 
-<h3>Front-End Development: </h3> HTML, CSS, Bootstrap, Tailwind CSS, MUI, React, Next.js
-<h3> Back-End Development:</h3> Node.js, Express.js, PHP, Laravel
-<h3>Content Management Systems:</h3> WordPress <br />
-I thrive on solving complex problems and crafting efficient, scalable solutions. My focus is on delivering high-quality, modern web experiences with a keen eye for performance and usability.
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, next.js, Wordpress, Php and laravel**
 
-Feel free to explore my repositories to see the projects I've worked on and the skills I've honed.</b> .</b>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<br />
-
-
-- I have done BSCS (hons) from Kohat University Of Science and Technology.
-
-<br />
-- 💬 Ask me about <b>HTML, CSS, Boootstrap, JavaScript, JQuerry, React.js </b>
-
-<br /><br /><br />
-
-
-<b> My Projects:</b>
-<br />
-- 📫 <b>Ineedit:</b> <a href='https://yasir-ineedit-react.vercel.app/'>visit</a>
-- This is an online web application developed in React.js with backend in Node express.js and mongoDB. It has the following features.
- i).   Home page with Search form :heavy_check_mark:<br />
-ii).  Listing page (doctors listing) :heavy_check_mark:<br />
-iii). Listing page search filters :heavy_check_mark:<br />
-iv).  Service details page (Single doctor services page) :heavy_check_mark:<br />
-v).   Book appointment :heavy_check_mark:<br />
-vi).  About page :heavy_check_mark:<br />
-vi).  Contact US :heavy_check_mark:<br /><br />
-Detail Page: ![image](https://user-images.githubusercontent.com/112818000/203069771-24fd1bb8-dc25-4325-befe-c510bc866954.png)
-
-
-<br /><br />
-<hr /><hr />
-<br /><br />
-
-
-- 📫 <b>coffeeshop:</b> <a href='https://github.com/yasirazizpk/coffeeshop'>visit</a><br/>
-- This is a coffee listing static template designed in pure HTML, CSS (without using bootstrap). It has Home Page, Menu page, About and Contact Page.<br/>
-Home Page: ![image](https://user-images.githubusercontent.com/112818000/202649178-a33a321f-baf1-4ad5-b821-1bb16373811b.png)
-<br /><br />
-<br /><br />
-<hr /><hr />
-<br /><br />
-
-- 📫 <b>coffeeshop-React:</b> <a href='https://yasir-aziz-coffeeshop-react.vercel.app/'>visit</a>
-- This is a website built in React.js with static coffee's listing. It has Home Page, Menu page, About and Contact Page.
-
-Home Page: ![image](https://user-images.githubusercontent.com/112818000/202650640-cc68a6aa-3bf8-4937-b221-eed96cca1fb3.png)
-
-<br /><br />
-<hr /><hr />
-<br /><br />
-- 📫 <b>Online Store:</b> <a href='https://yasir-aziz-online-store.vercel.app/'>visit</a><br>
-- This is an online web app developed in React.JS integrated with backend REST API's (free public products API's by fakeStoreApi).
-- This app has the followign features.
-
-i).   HOME page including banner image and products. :heavy_check_mark:<br/>
-ii).  Products Listing page. :heavy_check_mark:<br/>
-iii). Products filter by category. :heavy_check_mark:<br/>
-iv).  Single product page. :heavy_check_mark:<br/>
-v).   Add to cart. :heavy_check_mark:<br/>
-Listing Page:![image](https://user-images.githubusercontent.com/112818000/202677068-c2adb11f-8a64-4ff8-9d25-aee6a78e523a.png)
-
-
-<br /><br />
-<hr /><hr />
-<br /><br />
-
-- 📫 <b>tictactoe game:</b> <a href='https://yasir-aziz-tictactoe-game.vercel.app/'>visit</a>
-- This is tictactoe game. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is considered winner.
-- When all 9 squares are full, the game is over.<br/>
-![image](https://user-images.githubusercontent.com/112818000/202652685-4bfb0d50-e481-40c8-8ddb-3ca2ff7436ba.png)
-
-<br /><br />
-<hr /><hr />
-<br /><br />
-
-- 📫 <b>Node.JS CRUD Api:</b> <a href='https://github.com/yasirazizpk/CRUD-API'>visit</a>
-- This is CRUD Rest Api Build with Node.js, Express, and MongoDB.
-- This Api will perform CRUD Operation like Create, Read, Update, and Delete data from database.<br/>
-Post Data: ![image](https://user-images.githubusercontent.com/112818000/203087104-45eb5200-bac4-44f2-92e5-305ac87f75da.png)
-
-<br /><br />
-<hr /><hr />
-<br /><br />
-
-
-<b>Reach out to me: </b>
-- 📫 <b>linkedIn:<a href='https://www.linkedin.com/in/yasir-aziz-b5339724a'>visit</a></b>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
