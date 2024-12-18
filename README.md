@@ -1,6 +1,6 @@
 ![logo](https://github.com/yasirazizpk/yasirazizpk/blob/main/Blue%20Minimalist%20Freelancer%20Web%20Designer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yasir Aziz</h1>
-<h3 align="center">As a dedicated Full Stack Developer, I specialize in creating dynamic, user-friendly web applications and websites. My skill set includes: Front-End Development: HTML, CSS, Bootstrap, Tailwind CSS, MUI, React, Next.js Back-End Development: Node.js, Express.js, PHP, Laravel Content Management Systems: WordPress I thrive on solving complex problems and crafting efficient, scalable solutions. My focus is on delivering high-quality, modern web experiences with a keen eye for performance and usability. Feel free to explore my repositories to see the projects I've worked on and the skills I've honed.</h3>
+<p align="center">As a dedicated Full Stack Developer, I specialize in creating dynamic, user-friendly web applications and websites. My skill set includes: Front-End Development: HTML, CSS, Bootstrap, Tailwind CSS, MUI, React, Next.js Back-End Development: Node.js, Express.js, PHP, Laravel Content Management Systems: WordPress I thrive on solving complex problems and crafting efficient, scalable solutions. My focus is on delivering high-quality, modern web experiences with a keen eye for performance and usability. Feel free to explore my repositories to see the projects I've worked on and the skills I've honed.</p>
 <img align="right" alt="coding guy" src="https://github.com/user-attachments/assets/cc8a175f-e5a7-4019-ac9e-0738eb8d131b" width="400"
 >
 
